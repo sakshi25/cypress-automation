@@ -20,3 +20,5 @@
 -http-server is used for running the task.html on localhost (dependency added in package.json)
 
 -cypress-file-upload package is used for uplaoding th files
+-Prettier to prettify code
+
