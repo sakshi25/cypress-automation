@@ -1,0 +1,32 @@
+{
+  "name": "cypress-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/src/task.html",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "cypress:headless": "cypress run --headless",
+    "start": "http-server -o ./task.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakshi25/cypress-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sakshi25/cypress-automation/issues"
+  },
+  "homepage": "https://github.com/sakshi25/cypress-automation#readme",
+  "dependencies": {
+    "cypress": "^13.8.1"
+  },
+  "devDependencies": {
+    "cypress-file-upload": "^5.0.8",
+    "http-server": "^14.1.1",
+    "open": "^10.1.0",
+    "prettier": "3.2.5"
+  }
+}

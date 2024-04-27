@@ -1,0 +1,3 @@
+{
+  "alertTextFilePath": "./cypress/fixtures/alert-text.txt"
+}
