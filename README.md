@@ -1,18 +1,19 @@
 # cypress-automation
 
-#For launching task.html file on a localhost
-npm run start
+#For launching task.html file on a localhost:
+
+-npm run start
 
 #For Running the Test:
 
 ##In Cypress UI:
-npm run cypress:run
+-npm run cypress:run
 
 ##In Command Line:
-npm run cypress:open
+-npm run cypress:open
 
 ##In headless mode:
-npm run cypress:headless
+-npm run cypress:headless
 
 #Additional Information:
 
