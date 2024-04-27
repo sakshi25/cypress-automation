@@ -6,13 +6,13 @@
 
 #For Running the Test:
 
-##In Cypress UI:
+#In Cypress UI:
 -npm run cypress:run
 
-##In Command Line:
+#In Command Line:
 -npm run cypress:open
 
-##In headless mode:
+#In headless mode:
 -npm run cypress:headless
 
 #Additional Information:
